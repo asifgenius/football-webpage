@@ -96,7 +96,6 @@ p {
 
 .player-section {
     display: flex;
-    height: 500px;
     width: 80%;
     border: 2px solid white;
     padding-left: 150px;
